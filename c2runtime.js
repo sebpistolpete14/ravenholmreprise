@@ -22665,7 +22665,6 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.Every,
 	cr.system_object.prototype.acts.CreateObject,
 	cr.behaviors.Bullet.prototype.acts.SetSpeed,
-	cr.plugins_.TextBox.prototype.cnds.IsBoolInstanceVarSet,
 	cr.plugins_.Sprite.prototype.acts.SetOpacity,
 	cr.plugins_.Keyboard.prototype.cnds.OnKey,
 	cr.plugins_.Sprite.prototype.exps.Count,
