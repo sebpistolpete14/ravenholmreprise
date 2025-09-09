@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1757381299,
+	"version": 1757417736,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,7 @@
 		"images/sprite2-sheet0.png",
 		"images/shotgun-sheet0.png",
 		"images/burst-sheet0.png",
+		"images/tiledbackground2.png",
 		"media/pistol_fire2.m4a",
 		"media/pistol_fire2.ogg",
 		"media/shotgun_dbl_fire7.m4a",
@@ -34,6 +35,8 @@
 		"media/e1m8.m4a",
 		"media/e1m8.ogg",
 		"media/09_-_doom_-_3do_-_hiding_the_secrets.ogg",
+		"media/intermission.m4a",
+		"media/intermission.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
